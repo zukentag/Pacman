@@ -1,5 +1,5 @@
 # Pacman
-This web project is a recreation of the classic Pacman game built using Javascript and HTML canvas. The game includes collision detection to allow the player to navigate through walls, update their score, and end the game. Additionally, the ghosts in the game move in a random algorithm, giving players a challenge to avoid and catch them. Enjoy playing Pacman with a modern twist!
+
 
 Play
 ----
